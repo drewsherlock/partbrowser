@@ -1,0 +1,5 @@
+{
+  "load_extensions": {
+    "partbrowser/extension": true
+  }
+}
